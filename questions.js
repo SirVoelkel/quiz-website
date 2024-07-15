@@ -13,7 +13,7 @@ let questions = [
     {
         numb: 2,
         question: "Für was steht CSS ?",
-        answer: "A. Cascading Style Sheet",
+        answer: "B. Cascading Style Sheet",
         options: [
             "A. Computer Style Sheet",
             "B. Cascading Style Sheet",
@@ -38,8 +38,8 @@ let questions = [
         answer: "D. Structured Query Language",
         options: [
             "A. Strength Query Language",
-            "Stylesheet Query Language",
-            "Science Question Language",
+            "B. Stylesheet Query Language",
+            "C. Science Question Language",
             "D. Structured Query Language"
         ]
     },
